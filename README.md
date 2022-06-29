@@ -1,10 +1,6 @@
 ### Hi there 👋
 
 
-| Syntax | Description |
-| ----------- | ----------- |
-| Header | Title |
-| Paragraph | Text |
 
 <!--
 **aemirglc/aemirglc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
